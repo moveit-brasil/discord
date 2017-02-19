@@ -1,4 +1,4 @@
-Escolha onde deseja instalar o tema: <a href="https://github.com/Shadow-Slayer/Discord/blob/master/Instalacao.md#instalação-do-tema-no-navegador-chrome"><b>Navegador</b></a> ou <a href="https://github.com/Shadow-Slayer/Discord/blob/master/Instalacao.md#instalação-do-tema-no-app-para-desktop-windows"><b>APP para desktop - Windows</b></a>
+Escolha onde deseja instalar o tema: <a href="https://github.com/Shadow-Slayer/Discord/blob/master/Instalacao.md#instalação-do-tema-no-navegador-chrome"><b>Navegador</b></a> ou <a href="https://github.com/Shadow-Slayer/Discord/blob/master/Instalacao.md#instalação-do-tema-no-app-para-desktop-windows"><b>Programa para Windows</b></a>
 
 <br/>
 
