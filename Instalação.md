@@ -25,8 +25,8 @@ Primeiro devemos instalar a extensão <a href="https://chrome.google.com/webstor
 <div>
 Após instalar a extensão, entre no <a href="https://discord.me/move-it" target="_blank">Discord da Move-It</a> clique no ícone do <b>"Stylish"</b> e em <b>"Create New Style"</b></div>
 <div>
-<b>
-</b></div>
+<br/>
+</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://2.bp.blogspot.com/-mB286ptRTpg/WKnn3_rRyFI/AAAAAAAAFVs/3XgEeVxfHmQEiC5HbFkvTNBjlUDz5ITPQCLcB/s1600/1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-mB286ptRTpg/WKnn3_rRyFI/AAAAAAAAFVs/3XgEeVxfHmQEiC5HbFkvTNBjlUDz5ITPQCLcB/s1600/1.jpg" /></a></div>
 <div>
