@@ -1,4 +1,4 @@
-# Discord
+# Discord Tema Move It - Brasil
 
 Instruções para instalação do tema MIB no Discord
 
