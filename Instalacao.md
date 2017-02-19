@@ -33,7 +33,10 @@ Após instalar a extensão, entre no <a href="https://discord.me/move-it" target
 <br/>
 
 <div>
-Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinha <b>"Ativado"</b> e na parte da direita em <b>"Seções"</b>, cole o código CSS que pode ser copiado acessando esse link: <a href="https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css" target="_blank">Tema Discord MIB</a></div>
+Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinha <b>"Ativado"</b> e na parte da direita em <b>"Seções"</b>, cole esse código <pre class="prettyprint">
+    <code class="lang-bsh">@import url('https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css');</code>
+</pre> 
+</div>
 
 <br/>
 
