@@ -1,5 +1,4 @@
-<h3>
-Instalação do Tema no Navegador Chrome:</h3>
+# Instalação do Tema no Navegador Chrome
 <div>
 Primeiro devemos instalar a extensão <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=pt-BR" target="_blank"><b>Stylish</b></a> no Chrome</div>
 <div>
@@ -37,8 +36,8 @@ E logo abaixo da parte "Seções", confirme se está marcado na caixa "URLs no D
 
 <br/>
 
-<h3>
-Instalação do Tema no APP para desktop (Windows):</h3>
+
+# Instalação do Tema no APP para desktop (Windows)
 <div>
 Primeiro devemos instalar um programa chamado <a href="https://betterdiscord.net/home/" target="_blank">BetterDiscord</a>, ao abrir a página, logo aparecerá o botão de Download para Windows.</div>
 <div><br/>
