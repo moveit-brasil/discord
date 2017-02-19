@@ -49,7 +49,7 @@ Primeiro devemos instalar um programa chamado <a href="https://betterdiscord.net
 <div><br/>
 Após Baixar o arquivo, extraia o mesmo e execute o arquivo <b>BetterDiscordWI.exe</b></div>
 <div>
-Inicie o APP Discord em seu computador, se a instalação deu certo ao acessar as configurações do programa, aparecerá opção do <b>BetterDiscord</b> logo no final do menu, conforme imagens abaixo.</div>
+Inicie o APP Discord em seu computador, se a instalação deu certo ao acessar as configurações do programa aparecerá opção do <b>BetterDiscord</b> logo no final do menu, conforme imagens abaixo.</div>
 
 <br/>
 
