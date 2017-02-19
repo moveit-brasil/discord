@@ -46,7 +46,7 @@ Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinh
 Instalação do Tema no APP para desktop (Windows):</h3>
 <div>
 Primeiro devemos instalar um programa chamado <a href="https://betterdiscord.net/home/" target="_blank">BetterDiscord</a>, ao abrir a página, logo aparecerá o botão de Download para Windows.</div>
-<div>
+<div><br/>
 Após Baixar o arquivo, extraia o mesmo e execute o arquivo <b>BetterDiscordWI.exe</b></div>
 <div>
 Inicie o APP Discord em seu computador, se a instalação deu certo ao acessar as configurações do programa, aparecerá opção do <b>BetterDiscord</b> logo no final do menu, conforme imagens abaixo.</div>
