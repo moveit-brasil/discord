@@ -39,7 +39,8 @@ E logo abaixo da parte "Seções", confirme se está marcado na caixa "URLs no D
 
 <br/>
 
-<img border="0" src="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" /> 
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" width="400" /></a></div>
 
 <br/>
 
