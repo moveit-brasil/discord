@@ -16,7 +16,7 @@ Destaques do tema:</h3>
 
 </div>
 <h3>
-Instalação do Tema:</h3>
+Instalação do Tema no Navegador Chrome:</h3>
 <div>
 Primeiro devemos instalar a extensão <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=pt-BR" target="_blank"><b>Stylish</b></a> no Chrome</div>
 <div>
@@ -39,3 +39,8 @@ Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinh
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-LIM-yG_5d0Q/WKnn6pbMnnI/AAAAAAAAFVw/0wbuudkH8JYZM7JvQ4jGEVSEUXGcmuTWwCLcB/s1600/2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="https://1.bp.blogspot.com/-LIM-yG_5d0Q/WKnn6pbMnnI/AAAAAAAAFVw/0wbuudkH8JYZM7JvQ4jGEVSEUXGcmuTWwCLcB/s400/2.jpg" width="400" /></a></div>
+
+
+
+<h3>
+Instalação do Tema no APP para desktop:</h3>
