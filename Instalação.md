@@ -1,5 +1,5 @@
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-GvTTYbfmeCk/WKnhtm7OdQI/AAAAAAAAFVU/lgtK8RIm6Gc_Maz1lONxCCc-VZ1TQWCoACLcB/s1600/tema%2Bdiscord.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="315" src="https://2.bp.blogspot.com/-GvTTYbfmeCk/WKnhtm7OdQI/AAAAAAAAFVU/lgtK8RIm6Gc_Maz1lONxCCc-VZ1TQWCoACLcB/s640/tema%2Bdiscord.jpg" width="640" /></a></div>
+<a href="https://2.bp.blogspot.com/-GvTTYbfmeCk/WKnhtm7OdQI/AAAAAAAAFVU/lgtK8RIm6Gc_Maz1lONxCCc-VZ1TQWCoACLcB/s1600/tema%2Bdiscord.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-GvTTYbfmeCk/WKnhtm7OdQI/AAAAAAAAFVU/lgtK8RIm6Gc_Maz1lONxCCc-VZ1TQWCoACLcB/s880/tema%2Bdiscord.jpg" /></a></div>
 
 
 <h3>
