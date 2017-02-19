@@ -34,7 +34,12 @@ Após instalar a extensão, entre no <a href="https://discord.me/move-it" target
 
 <div>
 Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinha <b>"Ativado"</b> e na parte da direita em <b>"Seções"</b>, cole esse código <pre><code>@import url('https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css');</code></pre>
+E logo abaixo da parte "Seções", confirme se está marcado na caixa "URLs no Domínio" e do lado direito "discordapp.com"
 </div>
+
+<br/>
+
+<img border="0" src="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" /> 
 
 <br/>
 
