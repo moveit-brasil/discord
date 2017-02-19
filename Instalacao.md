@@ -66,5 +66,5 @@ Inicie o APP Discord em seu computador, se a instalação deu certo ao acessar a
 
 <br/>
 
-<div>Em seguida é só clicar em <b>Save</b> e logo abaixo em <b>Pronto</b> para fechar a janela.
+<div>Em seguida é só clicar em <b>Update</b> e <b>Save</b> e logo abaixo em <b>Pronto</b> para fechar a janela.
 </div>
