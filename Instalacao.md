@@ -34,20 +34,23 @@ Após instalar a extensão, entre no <a href="https://discord.me/move-it" target
 
 <div>
 Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinha <b>"Ativado"</b> e na parte da direita em <b>"Seções"</b>, cole esse código <pre><code>@import url('https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css');</code></pre>
-E logo abaixo da parte "Seções", confirme se está marcado na caixa "URLs no Domínio" e do lado direito "discordapp.com"
 </div>
-
-<br/>
-
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" width="400" /></a></div>
 
 <br/>
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-LIM-yG_5d0Q/WKnn6pbMnnI/AAAAAAAAFVw/0wbuudkH8JYZM7JvQ4jGEVSEUXGcmuTWwCLcB/s1600/2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="https://1.bp.blogspot.com/-LIM-yG_5d0Q/WKnn6pbMnnI/AAAAAAAAFVw/0wbuudkH8JYZM7JvQ4jGEVSEUXGcmuTWwCLcB/s400/2.jpg" width="400" /></a></div>
 
+<br/>
 
+<div>
+E logo abaixo da parte "Seções", confirme se está marcado na caixa "URLs no Domínio" e do lado direito "discordapp.com"
+</div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-0Yj10R3emR8/WKoSzJm5HxI/AAAAAAAAFXI/Mqf0UOqXCl4OBKvHtSVaJ4O--EaY33J2wCLcB/s400/01548e9083e049e1b2035f5985bb0f99.png" /></a></div>
+
+<br/>
 
 <h3>
 Instalação do Tema no APP para desktop (Windows):</h3>
