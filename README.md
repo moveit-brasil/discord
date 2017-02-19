@@ -1,4 +1,4 @@
-# Discord Tema Move It - Brasil
+# Tema Move It - Brasil (Discord)
 
 Escolha onde deseja instalar o tema: 
 
