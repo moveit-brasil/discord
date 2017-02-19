@@ -45,11 +45,11 @@ Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinh
 <h3>
 Instalação do Tema no APP para desktop (Windows):</h3>
 <div>
-Primeiro devemos instalar um programa chamado <a href="https://betterdiscord.net/home/" target="_blank">BetterDiscord</a>, ao abrir a página, logo aparecerá o botão de Download para Windows.
-
-Após Baixar o arquivo, extraia o mesmo e execute o arquivo <b>BetterDiscordWI.exe</b>
-<b>
-</b> Inicie o APP Discord em seu computador, se a instalação deu certo ao acessar as configurações do programa, aparecerá opção do <b>BetterDiscord</b> logo no final do menu, conforme imagens abaixo.
+Primeiro devemos instalar um programa chamado <a href="https://betterdiscord.net/home/" target="_blank">BetterDiscord</a>, ao abrir a página, logo aparecerá o botão de Download para Windows.</div>
+<div>
+Após Baixar o arquivo, extraia o mesmo e execute o arquivo <b>BetterDiscordWI.exe</b></div>
+<div>
+Inicie o APP Discord em seu computador, se a instalação deu certo ao acessar as configurações do programa, aparecerá opção do <b>BetterDiscord</b> logo no final do menu, conforme imagens abaixo.</div>
 
 <br/>
 
@@ -57,7 +57,7 @@ Após Baixar o arquivo, extraia o mesmo e execute o arquivo <b>BetterDiscordWI.e
 
 <br/>
 
-Ao clicar no menu <b>BetterDiscord,</b> abrirá a janela conforme imagem abaixo, clique na aba <b>Custom CSS,</b>&nbsp;e cole o código CSS que pode ser copiado acessando esse link: <a href="https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css" target="_blank">Tema Discord MIB</a>
+<div>Ao clicar no menu <b>BetterDiscord,</b> abrirá a janela conforme imagem abaixo, clique na aba <b>Custom CSS,</b>&nbsp;e cole o código CSS que pode ser copiado acessando esse link: <a href="https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css" target="_blank">Tema Discord MIB</a></div>
 
 <br/>
 
@@ -66,5 +66,5 @@ Ao clicar no menu <b>BetterDiscord,</b> abrirá a janela conforme imagem abaixo,
 
 <br/>
 
-Em seguida é só clicar em <b>Save</b> e logo abaixo em <b>Pronto</b> para fechar a janela.
+<div>Em seguida é só clicar em <b>Save</b> e logo abaixo em <b>Pronto</b> para fechar a janela.
 </div>
