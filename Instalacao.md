@@ -53,9 +53,9 @@ Após Baixar o arquivo, extraia o mesmo e execute o arquivo <b>BetterDiscordWI.e
 
 <br/>
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-j0SM7qIFAgU/WKnvO--XaDI/AAAAAAAAFWU/W31sMv-2C7sjW1cv7sADE_fpUKJb96oUwCLcB/s1600/config.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-j0SM7qIFAgU/WKnvO--XaDI/AAAAAAAAFWU/W31sMv-2C7sjW1cv7sADE_fpUKJb96oUwCLcB/s1600/config.jpg" /></a><a href="https://3.bp.blogspot.com/-lL_N1-yaAw0/WKnvO7C3ACI/AAAAAAAAFWQ/0BqjtyygPnow5sGr-TqsxuRzEqxi0K35gCLcB/s1600/aa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-lL_N1-yaAw0/WKnvO7C3ACI/AAAAAAAAFWQ/0BqjtyygPnow5sGr-TqsxuRzEqxi0K35gCLcB/s1600/aa.jpg" /></a></div>
+<a href="https://1.bp.blogspot.com/-j0SM7qIFAgU/WKnvO--XaDI/AAAAAAAAFWU/W31sMv-2C7sjW1cv7sADE_fpUKJb96oUwCLcB/s1600/config.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-j0SM7qIFAgU/WKnvO--XaDI/AAAAAAAAFWU/W31sMv-2C7sjW1cv7sADE_fpUKJb96oUwCLcB/s1600/config.jpg" /></a><a href="https://3.bp.blogspot.com/-lL_N1-yaAw0/WKnvO7C3ACI/AAAAAAAAFWQ/0BqjtyygPnow5sGr-TqsxuRzEqxi0K35gCLcB/s1600/aa.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-lL_N1-yaAw0/WKnvO7C3ACI/AAAAAAAAFWQ/0BqjtyygPnow5sGr-TqsxuRzEqxi0K35gCLcB/s1600/aa.jpg" /></a>
 
+<br/>
 
 Ao clicar no menu <b>BetterDiscord,</b> abrirá a janela conforme imagem abaixo, clique na aba <b>Custom CSS,</b>&nbsp;e cole o código CSS que pode ser copiado acessando esse link: <a href="https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css" target="_blank">Tema Discord MIB</a>
 
