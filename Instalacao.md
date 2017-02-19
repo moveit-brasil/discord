@@ -2,8 +2,6 @@ Escolha onde deseja instalar o tema: <a href="https://github.com/Shadow-Slayer/D
 
 <br/>
 
-<br/>
-
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://2.bp.blogspot.com/-GvTTYbfmeCk/WKnhtm7OdQI/AAAAAAAAFVU/lgtK8RIm6Gc_Maz1lONxCCc-VZ1TQWCoACLcB/s1600/tema%2Bdiscord.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-GvTTYbfmeCk/WKnhtm7OdQI/AAAAAAAAFVU/lgtK8RIm6Gc_Maz1lONxCCc-VZ1TQWCoACLcB/s880/tema%2Bdiscord.jpg" /></a></div>
 
@@ -20,7 +18,9 @@ Destaques do tema:</h3>
 </ul>
 <div>
 
+<br/>
 
+<br/>
 
 <br/>
 
