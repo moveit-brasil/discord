@@ -38,6 +38,7 @@ E logo abaixo da parte "Seções", confirme se está marcado na caixa "URLs no D
 
 
 # Instalação do Tema no APP para desktop (Windows)
+
 <div>
 Primeiro devemos instalar um programa chamado <a href="https://betterdiscord.net/home/" target="_blank">BetterDiscord</a>, ao abrir a página, logo aparecerá o botão de Download para Windows.</div>
 <div><br/>
