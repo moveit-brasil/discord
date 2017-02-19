@@ -24,21 +24,18 @@ Primeiro devemos instalar a extensão <a href="https://chrome.google.com/webstor
 </div>
 <div>
 Após instalar a extensão, entre no <a href="https://discord.me/move-it" target="_blank">Discord da Move-It</a> clique no ícone do <b>"Stylish"</b> e em <b>"Create New Style"</b></div>
-<div>
+
 <br/>
-</div>
+
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://2.bp.blogspot.com/-mB286ptRTpg/WKnn3_rRyFI/AAAAAAAAFVs/3XgEeVxfHmQEiC5HbFkvTNBjlUDz5ITPQCLcB/s1600/1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-mB286ptRTpg/WKnn3_rRyFI/AAAAAAAAFVs/3XgEeVxfHmQEiC5HbFkvTNBjlUDz5ITPQCLcB/s1600/1.jpg" /></a></div>
-<div>
-<b>
-</b></div>
-<div>
 
-</div>
+<br/>
+
 <div>
 Abaixo de adicionar estilo, escreva um nome para o tema, deixe marcado a caixinha <b>"Ativado"</b> e na parte da direita em <b>"Seções"</b>, cole o código CSS que pode ser copiado acessando esse link: <a href="https://rawgit.com/Shadow-Slayer/Discord/master/MIB.css" target="_blank">Tema Discord MIB</a></div>
-<div>
 
-</div>
+<br/>
+
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://1.bp.blogspot.com/-LIM-yG_5d0Q/WKnn6pbMnnI/AAAAAAAAFVw/0wbuudkH8JYZM7JvQ4jGEVSEUXGcmuTWwCLcB/s1600/2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="https://1.bp.blogspot.com/-LIM-yG_5d0Q/WKnn6pbMnnI/AAAAAAAAFVw/0wbuudkH8JYZM7JvQ4jGEVSEUXGcmuTWwCLcB/s400/2.jpg" width="400" /></a></div>
