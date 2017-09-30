@@ -141,7 +141,7 @@ span.channel-name {
 .guild-channels .channel-voice {
     padding: 6px 6px 8px 16px;
 }
-.guild-channels header {
+/*.guild-channels header {
     color: #c59741 !important;
     background-image: -webkit-linear-gradient(left, transparent, transparent), -webkit-linear-gradient(left, transparent, #c59741, transparent);
     background-image: linear-gradient(90deg, transparent, transparent), linear-gradient(90deg, transparent, #c59741, transparent);
@@ -150,7 +150,7 @@ span.channel-name {
     background-repeat: no-repeat;
     text-align: center;
     opacity: 0.9 !important;
-}
+}*/
 .channel-members {
     padding: 0px !important;
 }
